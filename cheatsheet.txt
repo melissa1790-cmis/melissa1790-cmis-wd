@@ -1,0 +1,15 @@
+gedit (file) & - to open file in gedit
+cat (file) - to view everything in  file
+R(Tab) - README.md
+git status - to view the status of your files
+git add (name of file) - to add the file to your repository on github
+git commit -m "description of additions" - to commit the changes you've made to the files
+git push - to push the file back to github
+ls - to view contents of folder
+cd m(tab) - to get into folder
+cd .. - to get back to home
+gedit (new file name) - to create and open new file
+L(tab) - LICENSE
+Green text - folder of who you are and where you are
+Blue squiggle - home
+Blue dollar sign - means you can type the command
