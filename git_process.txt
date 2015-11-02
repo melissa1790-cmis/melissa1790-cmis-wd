@@ -1,0 +1,13 @@
+Start in terminal. To access terminal, click "Menu" and type "terminal" into the search bar near the top. Your options should appear on the right side. Click on the word that says "terminal."
+You will now see some green and blue text on a black background. The blinking white box indicates where you are typing or can type. The next thing to do is to clone. Type "git clone --config="git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git". 
+Where it says "your-network-username" change that to your username where you log onto the internet, without deleting anything.
+Delete "your-network-password" and type in your password when you log onto the internet.
+Take away everything from after the last slash in "https://github.com/" and paste in your link to your repository. You can paste by pushing shift and insert at the same time.
+Press enter.
+To create the file type in "gedit filename" and press enter. Your new file will open up.
+You can edit the file on gedit. When you are done, press "save" on the tool bar. Before you can go on terminal you must close gedit. Exit gedit.
+Now on terminal type in "git add nameoffile" and press enter.
+Then type in "git commit -m "description of what you did" and push enter.
+Type "git push" in and press enter. It will then ask you for your github username. Type it in and press enter.
+It will then ask you for your github password. Type it in. Note: it will not show on the screen. Press enter.
+You have now sucessfully created and uploaded a file to your github repository.
