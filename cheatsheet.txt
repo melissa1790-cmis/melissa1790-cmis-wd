@@ -13,3 +13,11 @@ L(tab) - LICENSE
 Green text - folder of who you are and where you are
 Blue squiggle - home
 Blue dollar sign - means you can type the command
+sftp melissa1790@cmis-hsteacher - open sftp 
+rm * - remove all files
+put * - put all files on server
+python -m SimpleHTTPServer - go onto the server
+!ls * - list all files on repository 
+ls * - list all on the server
+put - put on
+rm - remove
