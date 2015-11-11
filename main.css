@@ -1,11 +1,56 @@
+/*
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+*<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a *css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.
+*/
 h1 {
 	font-family: "Comic Sans MS", cursive, sans-serif;
-	background-color: #97FFFF;
-	color: #8B5F65;
+	background-color: #8B0A50;
+	color: #F8F8FF;
+	border-style: groove;
+	border-color: #98F5FF;
+	border-width: 30px;
+	text-align: center;
+	width: 500px;
+	height: 100px;
+	margin: auto;
 }
 h2 {
-	font-family: Payrus, fantasy;
-	color: #2b2b2b;
-	text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+	font-family: Impact, Charcoal, sans-serif;
+	color: #FEF5CA;
+	background-color: #BA55D3;
+	border-style: ridge;
+	border-color: #FF00FF;
+	border-width: 10px;
+	text-align: center;
 }
-	
+p {
+	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+	color: #F5FFFA;
+	background-color: #191970;
+	border-style: double;
+	border-color: #ADD8E6;
+	font-size: 125%;
+	font-style: oblique;
+}
+footer {
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+	color: #C71585;
+	background-color: #FDF5E6;
+	border-style: dotted solid;
+	border-width: 10px;
+}
+body {
+	background-color: #F0FFF0;
+}
