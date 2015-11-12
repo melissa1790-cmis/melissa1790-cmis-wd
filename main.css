@@ -19,7 +19,7 @@ h1 {
 	background-color: #8B0A50;
 	color: #F8F8FF;
 	border-style: groove;
-	border-color: #98F5FF;
+	border-color: #FFFACD #F0E68C #FFDEAD #D2B48C;
 	border-width: 30px;
 	text-align: center;
 	width: 500px;
@@ -31,7 +31,7 @@ h2 {
 	color: #FEF5CA;
 	background-color: #BA55D3;
 	border-style: ridge;
-	border-color: #FF00FF;
+	border-color: #ffe699;
 	border-width: 10px;
 	text-align: center;
 }
@@ -52,5 +52,6 @@ footer {
 	border-width: 10px;
 }
 body {
-	background-color: #F0FFF0;
+	background-image: url(http://wallpapersmap.com/wp-content/uploads/2014/03/Book-Artwork.jpg);
+	background-size: 100% auto;
 }
