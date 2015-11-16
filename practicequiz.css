@@ -1,0 +1,23 @@
+h1 { 
+	font-family:Impact, Charcoal, sans-serif;
+	color: yellow;
+	font-style: italic;
+	font-size: 180%;
+	background-color: green;
+}
+header { 
+	background-color: yellow
+}
+h2 {
+	background-color: blue;
+	color: yellow;
+}
+p {
+	color: blue;
+}
+h3 {
+	background-color: orange;
+	color: blue;
+}
+footer{
+}
