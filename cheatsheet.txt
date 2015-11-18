@@ -20,4 +20,13 @@ python -m SimpleHTTPServer - go onto the server
 !ls * - list all files on repository 
 ls * - list all on the server
 put - put on
+cd public_html - allows you to put files on production server or take off
+cmis-hsteacher/~melissa1790 - view files on production server (if doesn't work add http:// in front )
+localhost:8000 - view on development server
+mkdir - make directory
+rmdir - remove directory
+git add listsandlinks/ - git add all files in folder 
 rm - remove
+cd into subfolder before putting on files in sftp but first mkdir subfolder
+pwd - view folder your're currently in (present working directory)
+cd .. - get back into home folder
