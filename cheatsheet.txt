@@ -30,3 +30,4 @@ rm - remove
 cd into subfolder before putting on files in sftp but first mkdir subfolder
 pwd - view folder your're currently in (present working directory)
 cd .. - get back into home folder
+mv oldfilename newfilename - rename file
