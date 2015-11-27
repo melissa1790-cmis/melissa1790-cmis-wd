@@ -1,0 +1,19 @@
+h2 ~ p{	
+	width: 300px;
+	padding: 25px;
+	border: 10px solid purple;
+	margin: 25px auto;
+}
+
+main > h2{
+	width: 300px;
+	padding: 25px;
+	border: 5px dashed purple;
+	margin: 25px auto;
+}
+body > h1{
+	width: 300px;
+	padding: 25px;
+	border: 10px solid purple;
+	margin: 25px auto;
+}
