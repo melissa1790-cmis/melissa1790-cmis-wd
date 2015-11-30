@@ -17,3 +17,52 @@ body > h1{
 	border: 10px solid purple;
 	margin: 25px auto;
 }
+article > h2{
+	width: 300px;
+	padding: 25px;
+	border: 10px solid purple;
+	margin: 25px auto;
+}
+p + ul{
+	width: 300px;
+	padding: 25px;
+	border: 10px dotted purple;
+	margin: 25px auto;
+}
+ol + h2{
+	width: 700px;
+	padding: 25px;
+	border: 10px dotted purple;
+	margin: 25px auto;
+}
+table + h2{
+	width: 300px;
+	padding: 25px;
+	border: 10px dotted navy;
+	margin: 25px auto;
+	color: white
+}
+main > table{
+	width: 300px;
+	padding: 80px;
+	border: 10px dashed purple;
+	margin: 25px auto;
+	background-color: white;
+}
+ul > li{
+	width: 200px;
+	padding: 25px;
+	border: 10px groove navy;
+	margin: 10px auto;
+}
+body > main{
+	background-image: url(http://images7.alphacoders.com/364/364746.jpg);
+}
+ol > li{
+	width: 700px;
+	padding: 25px;
+	border: 10px dotted purple;
+	margin: 25px auto;
+	background-color: white;
+}
+
