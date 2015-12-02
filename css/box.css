@@ -1,39 +1,49 @@
 h2 ~ p{	
-	width: 300px;
+	width: 400px;
 	padding: 25px;
 	border: 10px solid purple;
 	margin: 25px auto;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 main > h2{
-	width: 300px;
+	width: 500px;
 	padding: 25px;
 	border: 5px dashed purple;
 	margin: 25px auto;
+	text-align: center;
+	text-decoration: underline;
 }
 body > h1{
-	width: 300px;
+	width: 500px;
 	padding: 25px;
 	border: 10px solid purple;
 	margin: 25px auto;
+	text-align: center;
+	color: navy;
+	text-decoration: underline;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 article > h2{
-	width: 300px;
+	width: 500px;
 	padding: 25px;
 	border: 10px solid purple;
 	margin: 25px auto;
 }
 p + ul{
-	width: 300px;
+	width: 400px;
 	padding: 25px;
 	border: 10px dotted purple;
 	margin: 25px auto;
+	background-color: white;
 }
 ol + h2{
 	width: 700px;
 	padding: 25px;
-	border: 10px dotted purple;
+	border: 5px dotted purple;
 	margin: 25px auto;
+	background-color: white;
 }
 table + h2{
 	width: 300px;
@@ -43,14 +53,14 @@ table + h2{
 	color: white
 }
 main > table{
-	width: 300px;
+	width: 400px;
 	padding: 80px;
 	border: 10px dashed purple;
 	margin: 25px auto;
 	background-color: white;
 }
 ul > li{
-	width: 200px;
+	width: 300px;
 	padding: 25px;
 	border: 10px groove navy;
 	margin: 10px auto;
@@ -65,4 +75,3 @@ ol > li{
 	margin: 25px auto;
 	background-color: white;
 }
-
