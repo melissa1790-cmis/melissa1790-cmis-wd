@@ -5,6 +5,7 @@ h2 ~ p{
 	margin: 25px auto;
 	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
+	height: 170px;
 }
 
 main > h2{
@@ -13,7 +14,8 @@ main > h2{
 	border: 5px dashed purple;
 	margin: 25px auto;
 	text-align: center;
-	text-decoration: underline;
+	text-decoration: underline;	
+	height: 40px;
 }
 body > h1{
 	width: 500px;
@@ -24,12 +26,14 @@ body > h1{
 	color: navy;
 	text-decoration: underline;
 	font-family: "Comic Sans MS", cursive, sans-serif;
+	height: 100px;
 }
 article > h2{
 	width: 500px;
 	padding: 25px;
 	border: 10px solid purple;
 	margin: 25px auto;
+	height: 70px;
 }
 p + ul{
 	width: 400px;
@@ -37,6 +41,7 @@ p + ul{
 	border: 10px dotted purple;
 	margin: 25px auto;
 	background-color: white;
+	height: 1000px;
 }
 ol + h2{
 	width: 700px;
@@ -44,13 +49,15 @@ ol + h2{
 	border: 5px dotted purple;
 	margin: 25px auto;
 	background-color: white;
+	height: 100px;
 }
 table + h2{
 	width: 300px;
 	padding: 25px;
 	border: 10px dotted navy;
 	margin: 25px auto;
-	color: white
+	color: white;
+	height: 100px;
 }
 main > table{
 	width: 400px;
@@ -58,6 +65,7 @@ main > table{
 	border: 10px dashed purple;
 	margin: 25px auto;
 	background-color: white;
+	height: 100px;
 }
 ul > li{
 	width: 300px;
