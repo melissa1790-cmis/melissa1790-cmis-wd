@@ -1,0 +1,18 @@
+head > h1 {
+	width: 400px;
+	padding: 25px;
+	border: 10px solid purple;
+	margin: 25px auto;
+	height: 170px;
+}
+head{
+	width: 400px;
+	padding: 25px;
+	border: hidden hidden solid hidden;
+	margin: 25px auto;
+	height: 170px;
+	background-color: red;
+}
+h1 {
+	border: yellow;
+}
