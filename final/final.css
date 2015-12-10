@@ -1,0 +1,30 @@
+* {
+	outline: dotted red 1px;
+}
+nav {
+	width: 200px;
+	float: left;
+}
+main {
+	margin-left: 201px;
+}
+img.right {
+	float: right;
+}
+footer{
+	clear: both;
+}
+article {
+	clear: both;
+}
+img.right + h2{
+	width: 800px;
+	height: 500px;
+}
+h1: {
+	margin: auto;
+	color: 
+}
+article > img.right{
+	width: 500px;
+}
