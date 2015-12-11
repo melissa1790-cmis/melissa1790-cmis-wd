@@ -19,7 +19,9 @@ article {
 }
 img.right + h2{
 	width: 800px;
-	height: 500px;
+	height: 300px;
+	float: right;
+	margin: 0 0 10px 10px;
 }
 h1: {
 	margin: auto;
@@ -27,4 +29,10 @@ h1: {
 }
 article > img.right{
 	width: 500px;
+}
+ul {
+	margin-right: 550px;
+}
+.clearfix {
+	overflow: auto;
 }
